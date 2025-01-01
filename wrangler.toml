@@ -1,0 +1,5 @@
+name = "coino"
+type = "React(Vite)" # or "webpack", "vite", etc.
+account_id = "1fb8d5aed2446b2d1c365a7dd5b1803f"
+zone_id = "your-zone-id" # optional
+routes = ["your-domain/*"] # optional
